@@ -17,3 +17,5 @@ cd client
 pip install -r requirements.txt
 python3 client.py
 ```
+### Source
+[https://huggingface.co/ai-forever/ruGPT-3.5-13B](https://huggingface.co/ai-forever/ruGPT-3.5-13B)
